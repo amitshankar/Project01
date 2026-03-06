@@ -1,6 +1,9 @@
 Exploratory Data Analysis: https://nbviewer.org/github/amitshankar/Project01/blob/main/01%20EDA.ipynb    
+
 Training, testing and finalizing a model: https://nbviewer.org/github/amitshankar/Project01/blob/main/02%20Model_Generation.ipynb   
+
 Generating prediction data for Kaggle submission: https://nbviewer.org/github/amitshankar/Project01/blob/main/03%20Submisison_Generation.ipynb   
+
 Navigation URL for HTML representation : https://nbviewer.org/github/amitshankar/Project01/tree/main/  
 
 <b>What I learned from this project?</b>  
