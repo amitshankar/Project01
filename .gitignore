@@ -1,0 +1,5 @@
+# Ignore python virtual environment
+venv_ab
+
+# Ignore the below file
+.DS_Store
